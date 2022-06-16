@@ -1,0 +1,7 @@
+.navbarLink {
+  text-decoration: none;
+  color: #3A1212;
+}
+.navbarLinkBorder{
+  border-bottom: 3px solid #FF2625;
+}
